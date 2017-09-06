@@ -21,13 +21,12 @@ body{
     max-width: 75%;
 }
 .grapelogocntn{
-    height: 25%;
-    line-height: 12rem;
+    height: 35%;
+    line-height: 20rem;
     text-align: center;
 }
 .grapelogo{
     vertical-align: middle;
-    max-width: 40%;
 }
 .text {
     font-size: 1.4rem;
@@ -51,7 +50,6 @@ body{
 }
 .leftimg,.rightimg{
     vertical-align: bottom;
-    max-width: 25%;
 }
 
 .
