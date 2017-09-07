@@ -105,7 +105,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/task4" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,7 +154,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62451000" />
+    <option name="totallyTimeSpent" value="63100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="313" y="89" width="1546" height="872" extended-state="0" />

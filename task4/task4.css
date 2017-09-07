@@ -1,0 +1,77 @@
+html{
+    height:100%;
+    font-size: 625%;
+}
+body{
+    height: 100%;
+    background-color: rgb(239,240,244);
+    margin: 0;
+}
+.header{
+    height: 0.5rem;
+    line-height: 0.5rem;
+    background-color: rgb(95,192,205);
+    padding: 0 0.15rem;
+}
+.text{
+    color: white;
+    text-decoration: none;
+    font-size: 0.15rem;
+}
+.pull-left{
+    float:left;
+}
+.pull-right{
+    float:right;
+}
+h2{
+    color: white;
+    font-size: 0.18rem;
+    text-align: center;
+    padding: 0 1rem;
+    margin:0;
+}
+.login{
+    font-size: 0.14rem;
+}
+.loginrow{
+    margin: 0.1rem 0;
+    background: #ffffff;
+}
+.loginrow input[type=text]{
+    background-image: url("logo_iPhone.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: 0.75rem 0.4rem ;
+}
+.loginrow input[type=password]{
+    background-image: url("logo_lock.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: 0.75rem 0.4rem ;
+}
+input{
+    padding-left: 0.8rem;
+    line-height: 0.45rem;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+.btn{
+    background-color: rgb(95,192,205);
+    width: 100%;
+    line-height: 0.5rem;
+    border: none;
+    outline: none;
+    color:white;
+    font-size: 0.16rem;
+    letter-spacing: 0.15rem;
+}
+.logintext{
+    margin:0.14rem;
+    font-size: 0.14rem;
+}
+a{
+    color:rgb(95,192,205);
+}
+
